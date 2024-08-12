@@ -40,7 +40,7 @@ nav{
 .heading{
     display: flex;
     flex-direction: row;
-    column-gap: 39.8%;
+    column-gap: 39%;
 }
 .heading h1{
     color: white;
